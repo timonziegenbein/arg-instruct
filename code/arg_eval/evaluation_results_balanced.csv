@@ -1,0 +1,7 @@
+task,task_type,task_is_ca,dataset,approach,split,micro_f1,macro_f1,mase,rougeL,exact_matches,macro_f1_rank,micro_f1_rank,mase_rank,rougeL_rank,exact_matches_rank
+quality-assessment_ibm-rank-30k,reg,ca,ibm-rank-30k,ArgInstruct,test,,,0.24521963285178147,,,,,1.0,,
+reconstruct-enthymemes_enthymemes-student-essays,gen,ca,enthymemes-student-essays,ArgInstruct,train,,,,0.1642480406851772,0.0,,,,1.0,1.0
+argument-identification_UKP-sentential-argument-mining,clf,ca,UKP-sentential-argument-mining,ArgInstruct,train,0.6199796126401631,0.6221855676800941,,,,1.0,1.0,,,
+inappropriateness-detection_appropriateness-corpus,clf,ca,appropriateness-corpus,ArgInstruct,train,0.7351598173515982,0.7290066564260114,,,,1.0,1.0,,,
+extractive-summarization_debate-dum,gen,ca,debate-dum,ArgInstruct,train,,,,0.5590578220280262,0.0,,,,1.0,1.0
+identifying-argumentative-relations_argument-annotated-essays-2,clf,ca,argument-annotated-essays-2,ArgInstruct,test,0.5306785859406745,0.4723880567925475,,,,1.0,1.0,,,

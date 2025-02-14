@@ -1,0 +1,5 @@
+approach,micro_f1_train,micro_f1_rank_train,rougeL_train,rougeL_rank_train,mean_rank_train
+00_gemma-it-ours_CAseed+CAgen,0.6202995561043008,1.0,0.4336509364242445,1.0,1.0
+01_gemma_CAseed+CAgen+Alpaca,0.6123120792544904,3.0,0.3971116735288965,4.0,3.5
+02_gemma-it-ours,0.6178202075432871,2.0,0.37330558660426005,3.0,2.5
+03_gemma_base,0.5547918687714966,4.0,0.4325805292317102,2.0,3.0
