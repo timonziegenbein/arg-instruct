@@ -1,9 +1,0 @@
-approach,((18*micro_f1_train)+(3*micro_f1_valid))/21,((18*mase_train)+(3*mase_valid))/21,((18*rougeL_train)+(3*rougeL_valid))/21,((18*mean_rank_train)+(3*mean_rank_valid))/21
-gpt-4o-mini_ca,0.565,1.428,0.326,2.619
-gemma_ca,0.504,1.556,0.277,3.286
-alpaca_ca,0.425,1.307,0.326,3.619
-alpaca3_ca,0.440,1.976,0.373,3.905
-mistral_ca,0.499,2.219,0.282,4.524
-llama3_ca,0.449,1.907,0.184,4.857
-majority_ca,0.424,0.759,0.104,5.000
-random_ca,0.438,1.644,0.124,5.571
